@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/736x/10/85/ba/1085babbc38c4049673ac82353a9b19b.jpg)
+<img src="https://i.pinimg.com/736x/10/85/ba/1085babbc38c4049673ac82353a9b19b.jpg" width="200"/>
 
 ## psicoseado sstool
 
@@ -27,4 +27,7 @@ apart from that stuff sometimes i make other projects too like these ones:
 
 ## contact
 
-i do ss myself (not
+i do ss myself (not advanced lol, not even medium) but i can help — hit me up for anything
+
+[![Discord](https://img.shields.io/badge/ps1coseado-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://ps1coseado.netlify.app/#sobre-mi)
