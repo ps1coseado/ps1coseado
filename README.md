@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/736x/10/85/ba/1085babbc38c4049673ac82353a9b19b.jpg" width="200"/>
+<img src="https://i.pinimg.com/736x/57/81/c7/5781c7395223ce32f17c6ce8b11c227b.jpg" width="200"/>
 
-## psicoseado sstool
+## Psicoseado SSTool
 
 currently my main build, focusing on it more than everything.
 its a tool that reunites many Digital Forensics Analysis tools and leaves them to you in just one click.
@@ -9,7 +9,7 @@ its a tool that reunites many Digital Forensics Analysis tools and leaves them t
 
 ---
 
-## apart
+## Apart
 
 apart from that stuff sometimes i make other projects too like these ones:
 
@@ -17,7 +17,7 @@ apart from that stuff sometimes i make other projects too like these ones:
 
 ---
 
-## stats
+## Stats
 
 [![streak](https://streak-stats.demolab.com?user=Psicosiadov2&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -25,7 +25,7 @@ apart from that stuff sometimes i make other projects too like these ones:
 
 ---
 
-## contact
+## Contact
 
 i do ss myself (not advanced lol, not even medium) but i can help — hit me up for anything
 
