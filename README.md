@@ -100,11 +100,3 @@ I do SS myself (not advanced lol, not even medium) but I can help — hit me up 
 > i do ss myself (not advanced lol, not even medium) but I can help — hit me up for anything.
 
 <br/>
-
-<div align="center">
-
-<img src="assets/kitten.jpg" width="130" alt="mood" />
-
-<sub>mood</sub>
-
-</div>
