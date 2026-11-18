@@ -77,12 +77,12 @@ I do SS myself (not advanced lol, not even medium) but I can help — hit me up 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ps1coseado&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=EF2433&icon_color=EF2433&text_color=EDEDED&ring_color=EF2433" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps1coseado&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=EF2433&text_color=EDEDED&langs_count=6&hide=html,css,scss,markdown" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ps1coseado&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=EF2433&icon_color=EF2433&text_color=EDEDED&ring_color=EF2433&disable_animations=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps1coseado&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=EF2433&text_color=EDEDED&langs_count=6&hide=html,css,scss,markdown&disable_animations=true" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ps1coseado&theme=dark&hide_border=true&background=0D0D0F&ring=EF2433&fire=EF2433&currStreakLabel=EF2433&sideLabels=EDEDED&dates=8B8B8B" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=ps1coseado&theme=dark&hide_border=true&background=0D0D0F&ring=EF2433&fire=EF2433&currStreakLabel=EF2433&sideLabels=EDEDED&dates=8B8B8B&disable_animations=true" alt="GitHub streak" />
 
 <br/><br/>
 
