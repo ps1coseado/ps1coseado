@@ -20,11 +20,9 @@
 name:     psicoseado
 role:     Staff & PC Checking Learner
 location: Puerto Rico
-focus:    Digital Forensics / SS Verification
-building: SSTool
+focus:    Digital Forensics (Learning)
+building: SSTool & Scripts for Digital Forensics Checks
 ```
-
-I do SS myself (not advanced lol, not even medium) but I can help — hit me up for anything.
 
 ---
 
@@ -58,12 +56,13 @@ I do SS myself (not advanced lol, not even medium) but I can help — hit me up 
 
 | Server | Roles |
 | :--- | :--- |
-| **BunderCraft Network** | `JR MOD` · `SS VERIFY` |
+| **BunderCraft Network** | `SS MANAGER` |
 | **EskMC** | `T-ADMIN` · `SS COORDINATOR` |
 | **Doomcraft Network** | `HELPER` · `SS VERIFY` |
 | **OrionMC** | `JR.MOD` · `SS VERIFY` |
 | **NightBox Network** | `MOD` · `SS VERIFY` |
 | **AssaultMC** | `SS MANAGER` |
+| **StreakMC** | `SS MANAGER` |
 
 <div align="center">
 
