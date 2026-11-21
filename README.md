@@ -35,7 +35,7 @@ building: SSTool & Scripts for Digital Forensics Checks
     </td>
     <td valign="middle">
       <h3><a href="https://github.com/ps1coseado/SStool-Psicoseadoo">SSTool</a></h3>
-      <p><strong>My main build.</strong> A tool that reunites many Digital Forensics Analysis tools and leaves them to you in just one click. <em>Bless al ssers.</em></p>
+      <p><strong>My main build.</strong> A tool that reunites many Digital Forensics Analysis tools and leaves them to you in just one click. <em>Bless all ssers.</em></p>
       <p><code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>HTML</code></p>
       <a href="https://github.com/ps1coseado/SStool-Psicoseadoo"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-EF2433?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
     </td>
@@ -66,7 +66,7 @@ building: SSTool & Scripts for Digital Forensics Checks
 
 <div align="center">
 
-**6** servers · **11** roles · **1+** years active
+**6** servers · **11** roles · **3+** Months active
 
 </div>
 
@@ -96,6 +96,6 @@ building: SSTool & Scripts for Digital Forensics Checks
 **Discord:** [ps1coseadoo](https://discord.com/users/822397936980721674) · **Server:** [gravemethods](https://discord.gg/9CTvac4p9g)  
 **GitHub:** [@ps1coseado](https://github.com/ps1coseado) · **NameMC:** [ps1coseado](https://namemc.com/profile/ps1coseado) · **Portfolio:** [ps1coseado.github.io](https://ps1coseado.github.io/)
 
-> i do ss myself (not advanced lol, not even medium) but I can help — hit me up for anything.
+> hit me up for anything.
 
 <br/>
