@@ -29,7 +29,7 @@ focus:    Digital Forensics
 building: SSTool
 ```
 
-Staff and PC-checking learner based in Puerto Rico. I work on screen-share verification, Windows analysis, and the small tools that make those checks repeatable.
+Staff and PC-checking learner in Puerto Rico. I mostly work on PC Checking, and the small tools that make those checks repeatable.
 
 **Focus** — Digital forensics · Screen-share verification · Staff operations · Tooling
 
@@ -60,7 +60,7 @@ Staff and PC-checking learner based in Puerto Rico. I work on screen-share verif
 
 ## III. Staff Experience
 
-Current and previous staff appointments across Minecraft networks, with a focus on screen-share verification and moderation operations.
+Focused on PC Checking, been active and learning for more than 3 months.
 
 <table width="100%">
   <thead>
@@ -77,6 +77,7 @@ Current and previous staff appointments across Minecraft networks, with a focus 
     <tr><td><strong>NightBox Network</strong></td><td>Moderator · SS Verification</td></tr>
     <tr><td><strong>AssaultMC</strong></td><td>SS Manager</td></tr>
     <tr><td><strong>StreakMC</strong></td><td>SS Manager</td></tr>
+    <tr><td><strong>MineBang</strong></td><td>SS Manager</td></tr>
   </tbody>
 </table>
 
@@ -118,8 +119,6 @@ Public GitHub activity.
     <tr><td><strong>Portfolio</strong></td><td><a href="https://ps1coseado.github.io/">ps1coseado.github.io</a></td></tr>
   </tbody>
 </table>
-
-For staff or verification enquiries, Discord is the fastest route.
 
 <div align="center">
 <br/>
