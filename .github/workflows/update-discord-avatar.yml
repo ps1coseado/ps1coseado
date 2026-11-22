@@ -41,5 +41,5 @@ jobs:
             echo "No avatar changes to commit."
           else
             git commit -m "Update Discord avatar"
-            git push
+            git push origin HEAD:main
           fi
