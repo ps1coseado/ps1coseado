@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="psicoseado — digital forensics and staff verification">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050506"/>
+      <stop offset="0.52" stop-color="#0a0a0c"/>
+      <stop offset="1" stop-color="#030304"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.845" cy="0.46" r="0.52">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0.025"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9a9aa1"/>
+      <stop offset="0.24" stop-color="#f4f4f6"/>
+      <stop offset="0.5" stop-color="#c4c4ca"/>
+      <stop offset="0.76" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#8b8b92"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1"/>
+    </pattern>
+    <clipPath id="avatarClip">
+      <circle cx="1014" cy="150" r="86"/>
+    </clipPath>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#halo)"/>
+  <path d="M0 300 L280 0 H0 Z" fill="#ffffff" opacity="0.018"/>
+  <path d="M1200 0 L920 300 H1200 Z" fill="#ffffff" opacity="0.012"/>
+
+  <rect x="20" y="20" width="1160" height="260" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/>
+  <rect x="28" y="28" width="1144" height="244" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+
+  <g stroke="#d9d9dd" stroke-opacity="0.7" stroke-width="1.5" fill="none">
+    <path d="M20 48V20h28"/>
+    <path d="M1180 48V20h-28"/>
+    <path d="M20 252v28h28"/>
+    <path d="M1180 252v28h-28"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="5" fill="#a7a7ad">
+    <text x="68" y="66">PROFILE</text>
+  </g>
+  <path d="M158 62h92" stroke="url(#rule)" stroke-width="1"/>
+
+  <text x="66" y="161" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" letter-spacing="1.5" fill="#ffffff" opacity="0.10" filter="url(#softGlow)">PSICOSEADO</text>
+  <text x="64" y="159" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" letter-spacing="1.5" fill="url(#silver)">PSICOSEADO</text>
+
+  <text x="68" y="204" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="4.2" fill="#b9b9bf">DIGITAL FORENSICS  ·  STAFF &amp; PC VERIFICATION</text>
+
+  <path d="M68 224h520" stroke="url(#rule)" stroke-width="1"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" letter-spacing="2.4" fill="#73737a">
+    <text x="68" y="258">PUERTO RICO</text>
+    <text x="250" y="258">CURRENTLY BUILDING — SSTOOL</text>
+    <text x="600" y="258">18.2208° N / 66.5901° W</text>
+  </g>
+
+  <path d="M890 60v180" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+
+  <circle cx="1014" cy="150" r="104" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="2 9"/>
+  <circle cx="1014" cy="150" r="92" fill="none" stroke="#e7e7ea" stroke-opacity="0.72" stroke-width="1.5"/>
+  <circle cx="1014" cy="150" r="86" fill="#08080a"/>
+  <image x="928" y="64" width="172" height="172" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,{{AVATAR_BASE64}}"/>
+  <circle cx="1014" cy="150" r="86" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1"/>
+  <g stroke="#e7e7ea" stroke-opacity="0.62" stroke-width="1.5">
+    <path d="M1014 38v8M1014 254v8M902 150h8M1118 150h8"/>
+  </g>
+  <circle cx="1084" cy="218" r="7" fill="#08080a" stroke="#e7e7ea" stroke-opacity="0.85" stroke-width="1.5"/>
+  <circle cx="1084" cy="218" r="2.5" fill="#e7e7ea"/>
+</svg>

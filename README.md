@@ -38,7 +38,7 @@ Staff and PC-checking learner based in Puerto Rico. I work on screen-share verif
 <table>
   <tr>
     <td width="190" align="center" valign="middle">
-      <a href="https://github.com/ps1coseado/SStool-Psicoseadoo"><img src="assets/sstool-mark.svg" width="156" alt="SSTool monogram" /></a>
+      <a href="https://github.com/ps1coseado/SStool-Psicoseadoo"><img src="assets/sstool-icon.jpg" width="156" alt="SSTool icon" /></a>
     </td>
     <td valign="middle">
       <sub><strong>FEATURED PROJECT</strong></sub>

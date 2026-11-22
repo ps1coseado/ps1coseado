@@ -1,0 +1,45 @@
+name: Update Discord avatar
+
+on:
+  schedule:
+    # Hourly. GitHub may delay scheduled runs during busy periods.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-discord-avatar
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh banner avatar
+        run: python scripts/update_discord_avatar.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/avatar-mono.png assets/banner.svg
+          if git diff --cached --quiet; then
+            echo "No avatar changes to commit."
+          else
+            git commit -m "Update Discord avatar"
+            git push
+          fi
