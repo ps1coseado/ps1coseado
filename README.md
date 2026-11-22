@@ -113,7 +113,7 @@ Public GitHub activity.
   </thead>
   <tbody>
     <tr><td><strong>Discord</strong></td><td><a href="https://discord.com/users/822397936980721674">ps1coseadoo</a></td></tr>
-    <tr><td><strong>Community</strong></td><td><a href="https://discord.gg/9CTvac4p9g">gravemethods</a></td></tr>
+    <tr><td><strong>Community</strong></td><td><a href="https://discord.gg/9CTvac4p9g">100y</a></td></tr>
     <tr><td><strong>GitHub</strong></td><td><a href="https://github.com/ps1coseado">@ps1coseado</a></td></tr>
     <tr><td><strong>NameMC</strong></td><td><a href="https://namemc.com/profile/ps1coseado">ps1coseado</a></td></tr>
     <tr><td><strong>Portfolio</strong></td><td><a href="https://ps1coseado.github.io/">ps1coseado.github.io</a></td></tr>
