@@ -31,7 +31,7 @@ building: SSTool
 
 Staff and PC-checking learner in Puerto Rico. I mostly work on PC Checking, and the small tools that make those checks repeatable.
 
-**Focus** — PC Checking · Learning new stuff · Configuring 
+**Focus** — PC Checking · Learning new stuff · Configuring
 
 ## II. Selected Work
 
@@ -83,7 +83,7 @@ Focused on PC Checking, been active and learning for more than 3 months.
 
 <div align="center">
 
-<sub><strong>7</strong> networks &nbsp;·&nbsp; <strong>11</strong> positions &nbsp;·&nbsp; <strong>3+</strong> months of active service</sub>
+<sub><strong>8</strong> networks &nbsp;·&nbsp; <strong>12</strong> positions &nbsp;·&nbsp; <strong>3+</strong> months of active service</sub>
 
 </div>
 
