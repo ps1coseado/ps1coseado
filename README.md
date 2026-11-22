@@ -31,7 +31,7 @@ building: SSTool
 
 Staff and PC-checking learner in Puerto Rico. I mostly work on PC Checking, and the small tools that make those checks repeatable.
 
-**Focus** — Digital forensics · Screen-share verification · Staff operations · Tooling
+**Focus** — PC Checking · Learning new stuff · Configuring 
 
 ## II. Selected Work
 
